@@ -4,7 +4,7 @@
 This repository contains Python code to analyze and predict house prices using linear regression. It includes preprocessing steps, gradient descent implementation, closed-form solution computation, visualization, and comparison of results.
 
 ## Instructions 🛠️:
-1. Open the notebook in Google Colab by clicking [here](https://colab.research.google.com/your-notebook.ipynb).
+1. Open the notebook in Google Colab.
 2. Ensure the required libraries (Pandas, NumPy, Matplotlib) are installed.
 3. Upload the `DataX.dat` and `DataY.dat` files to your Colab environment.
 4. Execute the code cells sequentially to preprocess data, train the model, and visualize the results.
